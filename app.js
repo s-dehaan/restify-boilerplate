@@ -1,4 +1,4 @@
-'use_strict';
+'use strict';
 
 // External imports
 const restify = require('restify');
